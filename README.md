@@ -1,6 +1,8 @@
 # GoogleMapsV2WithAppCompatActivity
 Full conversion from obsolete ActionBarSherlock to AppCompatActivity
 
+Instructions: Change API_KEY in manifest and run.
+
 Credits: http://ddewaele.github.io/GoogleMapsV2WithActionBarSherlock/
 
 
