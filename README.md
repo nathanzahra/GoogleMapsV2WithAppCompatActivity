@@ -1,3 +1,9 @@
+# GoogleMapsV2WithAppCompatActivity
+Converted obsolete ActionBarSherlock to AppCompatActivity
+
+Credits: http://ddewaele.github.io/GoogleMapsV2WithActionBarSherlock/
+
+
 ##Introduction
 
 This repository contains a number of projects that will help you get up to speed with Google Maps v2 on Android with ActionBarSherlock 4.3.1
@@ -9,8 +15,6 @@ It contains the following folders
 - [GoogleMapsV2WithActionBarSherlock](https://github.com/ddewaele/GoogleMapsV2WithActionBarSherlock/tree/master/GoogleMapsV2WithActionBarSherlock) (the complete sample application)
 - [ActionBarSherlock](http://actionbarsherlock.com/) (The ActionBar we all love, available in this repository for your convenience.)
 - google-play-services_lib (The Google Play Services lib, available in this repository for your convenience.)
-
-Note : This project was created for Eclipse ADT so on the master branch you can checkout the projects, import them in Eclipse and you should be good to go. For people working with Android Studio, I've created a [new branch](https://github.com/ddewaele/GoogleMapsV2WithActionBarSherlock/tree/androidstudio_migration) called ```androidstudio_migration1``` where you can checkout a Gradle enable version that you can import in Android Studio and get started immediately.
 
 ##Tutorial
 

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    
+
+	<item android:id="@+id/action_bar_start"
+        app:showAsAction="ifRoom"
+        android:title="@string/start"/>
+	
+	<item android:id="@+id/action_bar_stop"
+        app:showAsAction="ifRoom"
+        android:title="@string/stop"/>
+
+	<item android:id="@+id/action_bar_remove_location"
+        app:showAsAction="ifRoom"
+        android:title="@string/remove"/>	
+
+        <item android:id="@+id/action_bar_clear_locations"
+        app:showAsAction="ifRoom"
+        android:title="@string/clear"/>	
+    
+        <item android:id="@+id/action_bar_pan_camera"
+        app:showAsAction="ifRoom"
+        android:title="@string/pancamera"/>	
+
+		<item android:id="@+id/action_bar_toggle_style"
+        app:showAsAction="ifRoom"
+        android:title="@string/toggle_style"/>			
+</menu>
