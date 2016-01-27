@@ -1,5 +1,5 @@
 # GoogleMapsV2WithAppCompatActivity
-Full Conversion from obsolete ActionBarSherlock to native AppCompatActivity
+Full conversion from obsolete ActionBarSherlock to AppCompatActivity
 
 Credits: http://ddewaele.github.io/GoogleMapsV2WithActionBarSherlock/
 
